@@ -1,0 +1,158 @@
+---
+title: "KANBAN 101"
+subtitle: "Un capítulo de metodologías ágiles."
+author: "Illak Zapata"
+editor: source
+css: styles.css
+engine: knitr
+format: 
+  revealjs:
+    transition: slide
+    navigation-mode: vertical 
+    slide-number: c/t
+    width: 1600
+    height: 900
+    theme: moon
+    echo: true
+---
+
+## Metodologías ágiles
+
+Lo primero que hay que entender es que "Agile" **no es un método o una receta** 🛑.
+
+
+::: {.fragment .fade-left}
+Es una  <span style="color:red;">**Filosofía**</span>.
+:::
+
+. . .
+
+Filosofía que afecta muchos aspectos de la forma de **trabajo en equipo**.
+
+. . .
+
+Además, es de **aplicación universal** no solo para el mundo del desarrollo
+del software, aunque es en este ámbito donde ha proliferado especialmente.
+
+## Continúa...
+
+Incluso el más estricto de ellos no deja de ser más que
+
+::: {.fragment .fade-left}
+Un <span style="color:red;">**Marco de trabajo**</span> (o framework).
+:::
+
+. . .
+
+Con directrices y prácticas bien definidas.
+
+Sin embargo...
+
+. . .
+
+En todos ellos hay muchos **grados de libertad** en la forma de aplicarlos.
+
+::: {.fragment .fade-left}
+Entonces terminan habiendo <span style="color:red;">**tantas variantes como organizaciones!!**</span> 🙌.
+:::
+
+. . .
+
+pero ojo...
+
+. . .
+
+💡 A veces divergen tanto que abandonan los principios de la filosofía ágil,
+y por eso es importante el papel del *"coach"* para mantener el **foco** y el
+**ritmo**, como un entrenador lo hace con su equipo.
+
+## Implementación
+
+La Metodología Ágil se puede llevar a la práctica con <span style="color:red;">**SCRUM**</span> y <span style="color:red;">**KANBAN**</span> (pero no son los únicos!!).
+
+. . .
+
+Los principios para estas dos estructuras son los mismos pero sus funciones 
+son diferentes.
+
+. . .
+
+En esta presentación se profundizará en KANBAN 🙌.
+
+## KANBAN
+
+**Kanban** es un método <span style="color:red;">**visual**</span> 👀 para gestionar y procesar el trabajo.
+
+. . .
+
+**Objetivos**
+
+::: incremental
+1. Visualizar el trabajo
+2. Limitar la acumulación de tareas pendientes
+3. Maximizar la eficiencia (o el flujo de trabajo)
+:::
+
+. . .
+
+Los equipos que trabajan con Kanban se enfocan en **reducir** la duración
+de un proyecto (o la intervención de cada miembro) de **comienzo a fin**.
+
+. . .
+
+Tiene sus orígenes en una fábrica de Toyota y fue popularizada luego por los equipos de desarrollo de software gracias a su flexibilidad y agilidad para permitir acelerar el ritmo y eficiencia del trabajo.
+
+## Más
+
+Los principios del método Kanban se pueden aplicar a casi cualquier industria.
+
+. . .
+
+*"Ser ágil es la habilidad de crear y responder al cambio. Es una manera de lidiar con un entorno turbulento e incierto y tener éxito al final".*
+
+. . .
+
+Es un proceso que permite mejorar constantemente el flujo y la calidad del trabajo. 
+
+
+## 
+
+![](imgs/pk.png){fig-align="center"}
+
+## Básicamente esto es kanban
+
+![](imgs/kb2.jpg){fig-align="center"}
+
+## TRELLO
+
+Con herramientas de software se puede implementar "la pizarra" en un formato
+digital. Es decir pasamos de lo anterior a lo siguiente:
+
+![](imgs/trello.png){fig-align="center"}
+
+## Algunas ventajas de Trello como Kanban
+
+::: incremental
+
+1. Visualización de tareas
+2. Optimización de flujos: en el contexto de kanban, es el "movimiento"
+de items de trabajo a lo largo del tablero. Eficiencia y velocidad en que
+el trabajo progresa. Se busca reducir plazos de entrega, cuellos de botella, 
+asegurar un ritmo constante y sostenido de entrega de trabajos. Trello provee métricas para esto.
+3. Límites en la WIP (Work In Progress).
+4. Power ups para retrospectivas ágiles!
+5. Más!!
+:::
+
+
+## `r fontawesome::fa("laptop-code")` Demo!
+
+![](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif){fig-align="center"}
+
+
+## Recursos
+
+
+* <https://es.wikipedia.org/wiki/Kanban>
+* <https://www.atlassian.com/blog/project-management/kanban-101>
+* <https://trello.com/es/guide/trello-101>
