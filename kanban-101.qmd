@@ -175,3 +175,40 @@ asegurar un ritmo constante y sostenido de entrega de trabajos. Trello provee m�
 * <https://es.wikipedia.org/wiki/Kanban>
 * <https://www.atlassian.com/blog/project-management/kanban-101>
 * <https://trello.com/es/guide/trello-101>
+
+
+## Ideas
+
+. . .
+
+Kanban -> Palabra japonesa para "signo visual"
+
+. . .
+
+Cuando trabajamos en servicios y tecnología, muchas veces nuestro trabajo
+se siente invisible o intangible.
+
+. . .
+
+Kanban ayuda a "visualizar" ese trabajo, de manera tal que podemos
+entenderlo mejor, compartirlo con otros y mantener al equipo en la misma
+página.
+
+. . .
+
+Las tarjetas kanban deben ser lo suficientemente "pequeñas", de tal manera
+que el equipo pueda realizar progreso "tangible" sobre ellas en el mínimo
+tiempo posible.
+
+. . .
+
+Pero tampoco se pueden tener tarjetas "micro", ni un extremo, ni el otro
+(evitar el caos).
+
+. . .
+
+Prestar atención al: **LEAD TIME**, **WIP Limit**
+
+
+
+
