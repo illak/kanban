@@ -134,6 +134,8 @@ Es un proceso que permite mejorar constantemente el flujo y la calidad del traba
 Con herramientas de software se puede implementar "la pizarra" en un formato
 digital. Es decir pasamos de lo anterior a lo siguiente:
 
+. . .
+
 ![](imgs/trello.png){fig-align="center"}
 
 ## Algunas ventajas de Trello como Kanban
@@ -154,6 +156,17 @@ asegurar un ritmo constante y sostenido de entrega de trabajos. Trello provee m�
 ## `r fontawesome::fa("laptop-code")` Demo!
 
 ![](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif){fig-align="center"}
+
+
+## Ejemplos de Plantillas
+
+::: {style="text-align: center; margin-top: 1em"}
+[Plantilla 1 (recomendado para PMs o quizás roles similares)](https://trello.com/b/1x4Uql2u/project-management){style="text-align: center"}
+
+[Plantilla 2 (para organizar reuniones semanales)](https://trello.com/b/GDz7Wd53/weekly-team-meetings){style="text-align: center"}
+
+[Plantilla 3 (matriz Eisenhower 🤔)](https://trello.com/b/DZVysUiF/eisenhower-matrix-task-board){style="text-align: center"}
+:::
 
 
 ## Recursos
