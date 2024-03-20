@@ -1,7 +1,7 @@
 ---
 title: "KANBAN 101"
 subtitle: "Un capítulo de metodologías ágiles."
-author: "Illak Zapata"
+author: "Lic. Illak Zapata"
 editor: source
 css: styles.css
 engine: knitr
@@ -33,6 +33,19 @@ Filosofía que afecta muchos aspectos de la forma de **trabajo en equipo**.
 
 Además, es de **aplicación universal** no solo para el mundo del desarrollo
 del software, aunque es en este ámbito donde ha proliferado especialmente.
+
+## Manifiesto ágil o *agile*
+
+![](imgs/4-valores.png){fig-align="center"}
+
+## Entornos V.U.C.A
+
+::: {style="text-align: center; margin-top: 1em"}
+
+{{< video https://www.youtube.com/watch?v=SeWc7P4E8uU width="1024" height="768" >}}
+
+:::
+
 
 ## Continúa...
 
