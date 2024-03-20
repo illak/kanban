@@ -187,9 +187,10 @@ asegurar un ritmo constante y sostenido de entrega de trabajos. Trello provee m√
 ## Recursos
 
 
-* <https://es.wikipedia.org/wiki/Kanban>
-* <https://www.atlassian.com/blog/project-management/kanban-101>
-* <https://trello.com/es/guide/trello-101>
+* [Wikipedia -> Kanban](https://es.wikipedia.org/wiki/Kanban)
+* [Atlassian (lider en organizaci√≥n de equipos) Kanban 101](https://www.atlassian.com/blog/project-management/kanban-101)
+* [Trello 101](https://trello.com/es/guide/trello-101)
+* [Agile coach 2019](https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1)
 
 
 ## Ideas
