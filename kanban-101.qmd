@@ -14,6 +14,8 @@ format:
     height: 900
     theme: moon
     echo: true
+    logo: imgs/qr-presentacion.png
+    footer: <https://illak.github.io/kanban>
 ---
 
 ## Metodologías ágiles
