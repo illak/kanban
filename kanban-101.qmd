@@ -53,6 +53,19 @@ del software, aunque es en este ámbito donde ha proliferado especialmente.
 
 ![](imgs/entornos_vuca.png){fig-align="center" width="45%"}
 
+## Implementación
+
+La Metodología Ágil se puede llevar a la práctica con <span style="color:red;">**SCRUM**</span> y <span style="color:red;">**KANBAN**</span> (pero no son los únicos!!).
+
+. . .
+
+Los principios para estas dos estructuras son los mismos pero sus funciones 
+son diferentes.
+
+. . .
+
+![](imgs/kanban_scrum.png){fig-align="center"}
+
 
 ## Continúa...
 
@@ -86,18 +99,6 @@ pero ojo...
 y por eso es importante el papel del *"coach"* para mantener el **foco** y el
 **ritmo**, como un entrenador lo hace con su equipo.
 
-## Implementación
-
-La Metodología Ágil se puede llevar a la práctica con <span style="color:red;">**SCRUM**</span> y <span style="color:red;">**KANBAN**</span> (pero no son los únicos!!).
-
-. . .
-
-Los principios para estas dos estructuras son los mismos pero sus funciones 
-son diferentes.
-
-. . .
-
-![](imgs/kanban_scrum.png){fig-align="center"}
 
 ##  {background-color="#CC0001"}
 
