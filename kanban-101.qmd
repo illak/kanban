@@ -49,6 +49,11 @@ del software, aunque es en este ámbito donde ha proliferado especialmente.
 :::
 
 
+## V.U.C.A (Volatility, Uncertainty, Complexity, Ambiguity)
+
+![](imgs/entornos_vuca.png){fig-align="center" width="45%"}
+
+
 ## Continúa...
 
 Incluso el más estricto de ellos no deja de ser más que
