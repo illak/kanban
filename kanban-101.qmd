@@ -184,14 +184,15 @@ asegurar un ritmo constante y sostenido de entrega de trabajos. Trello provee m�
 :::
 
 
-## Recursos
+## Recursos y cositas interesantes
 
 
 * [Wikipedia -> Kanban](https://es.wikipedia.org/wiki/Kanban)
 * [Atlassian (lider en organización de equipos) Kanban 101](https://www.atlassian.com/blog/project-management/kanban-101)
 * [Trello 101](https://trello.com/es/guide/trello-101)
 * [Agile coach 2019](https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1)
-
+* [Spotify engineering culture (part 1)](https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/)
+* [Spotify engineering culture (part 2)](https://engineering.atspotify.com/2014/09/spotify-engineering-culture-part-2/)
 
 ## Ideas
 
@@ -225,6 +226,11 @@ Pero tampoco se pueden tener tarjetas "micro", ni un extremo, ni el otro
 
 Prestar atención al: **LEAD TIME**, **WIP Limit**
 
+
+## Gracias!
+
+
+![](imgs/finde_xxl.png){fig-align="center" width="45%"}
 
 
 
