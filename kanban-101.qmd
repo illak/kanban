@@ -233,10 +233,12 @@ Pero tampoco se pueden tener tarjetas "micro", ni un extremo, ni el otro
 Prestar atención al: **LEAD TIME**, **WIP Limit**
 
 
-## Gracias!
+##  {background-color="#80A0DC"}
 
-
+::: {style="font-size: 250%;margin-top: 25%;text-align: center;"}
+🙏 Gracias! 🙏
+:::
+<!--
 ![](imgs/finde_xxl.png){fig-align="center" width="45%"}
-
-
+-->
 
